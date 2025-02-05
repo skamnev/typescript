@@ -9,3 +9,13 @@ numCatLives +=1;
 let gameOver: boolean = false;
 gameOver = true;
 gameOver = "true";
+
+// Type Infrence
+
+let tvShow = "Olive Kitteridge";
+tvShow = "Test as new String";
+tvShow = false;
+
+let isFunny = false;
+isFunny = true;
+isFunny = "asd";
